@@ -1,0 +1,1 @@
+CREATE DATABASE test_task_13_06_2024;
